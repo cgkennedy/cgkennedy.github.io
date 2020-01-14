@@ -1,0 +1,18 @@
+h1{
+    color:red;
+    font-size: 50px
+    }
+h2{
+    color:green;
+}
+.food{
+   color:orange;
+}
+li{
+    color:blue;
+}
+
+img{
+    width: 400px;
+}
+body{background-image:"background_img.jpg"};
