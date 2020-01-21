@@ -1,4 +1,10 @@
-.jumbotron {
+.motor_mathmakers_logo.png {
+    height: auto; 
+    width: auto; 
+    max-width: 80px; 
+    max-height:80px;}
+    
+    .jumbotron {
     background-attachment: fixed;
     background-image: url(car_background.jpg);
     background-repeat: no-repeat;
