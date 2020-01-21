@@ -1,3 +1,15 @@
+.jumbotron {
+    background-attachment: fixed;
+    background-image: url(car_background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-shadow: 1px 1px 1px black}
+.jumbotron-fluid {
+        padding-right: 0;
+        padding-left: 0;
+        border-radius: 0;
+    }
 h1{
     color:#000000;
     font-size: 250px
