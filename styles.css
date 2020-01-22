@@ -16,12 +16,16 @@
         padding-left: 0;
         border-radius: 0;
     }
+.fas {
+max-width: 80px;
+max-height:80px;
+    }
 h1{
     color:#000000;
-    font-size: 250px
+    font-size: 25px;
     }
 h2{
-    color:green;
+    color:blue;
 }
 .food{
    color:orange;
