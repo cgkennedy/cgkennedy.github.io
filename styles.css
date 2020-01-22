@@ -31,14 +31,14 @@ h1{
 h2{
     color:blue;
 }
+h3{
+    color:#000000;
+    font-size: 40px;
+}
 .food{
    color:orange;
 }
 li{
     color:blue;
-}
-
-img{
-    width: 400px;
 }
 body{background-image:"background_img.jpg"};
