@@ -1,7 +1,7 @@
 img {
 
-    max-width: 80px; 
-    max-height: 80px;}
+    max-width: 150px; 
+    max-height: 150px;}
     
     .jumbotron {
     min-height: 600px; 
@@ -11,6 +11,7 @@ img {
     background-size: cover;
     color: white;
     text-shadow: 1px 1px 1px black}
+
 .jumbotron-fluid {
         padding-right: 0;
         padding-left: 0;
