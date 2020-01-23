@@ -1,6 +1,6 @@
 img {
 
-    max-width: 150px; 
+    max-width: 200px; 
     max-height: 150px;}
     
     .jumbotron {
@@ -33,7 +33,7 @@ h2{
 }
 h3{
     color:#ffffff;
-    font-size: 60px;
+    font-size: 80px;
     text-shadow: 2px 2px 2px black
 }
 .food{
