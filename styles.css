@@ -29,15 +29,15 @@ max-height:80px;
       }
 
 .carousel-inner {
-position: center;
-width: 100%;
+position: relative;
+width: 400%;
 overflow: hidden;
 }
 .carousel-item {
-    position: center; 
+    position: relative; 
     display: none;
     float: left;
-    width: 100%;
+    width: 400%;
     margin-right: -100%;
     backface-visibility: hidden;
 }
