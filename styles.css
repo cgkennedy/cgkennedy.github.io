@@ -60,6 +60,19 @@ h3{
     font-size: 100px;
     text-shadow: 2px 2px 2px black
 }
+
+h7{
+    color: whitesmoke;
+    font-size: 80px;
+
+}
+
+h8{ 
+    color: darkred;
+    font-size: 80px;
+
+}
+
 .center-block {
     display: block;
     margin-left: auto;
