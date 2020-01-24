@@ -25,7 +25,7 @@ max-height:80px;
 
 
 .carousel-inner {
-position: center;
+position: relative;
 
 overflow: hidden;
 }
@@ -41,7 +41,7 @@ overflow: hidden;
     display: none;
     float: left;
     min-width: 100%; 
-    margin-right: -100%;
+    margin-right: auto;
     backface-visibility: hidden;
 }
 .text-center {
