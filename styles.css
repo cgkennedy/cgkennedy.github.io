@@ -25,18 +25,11 @@ max-height:80px;
 
 .carousel-inner img {
     margin: auto;
-    min-height: 200%;
+    min-height: 400%;
     width: auto;
   }
 
-.carousel-item {
-    position: center; 
-    display: none;
-    float: left;
-    min-width: 100%; 
-    margin-right: auto;
-    backface-visibility: hidden;
-}
+
 .text-center {
     text-align: center!important;
 }
