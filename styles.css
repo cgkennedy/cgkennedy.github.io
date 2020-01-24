@@ -22,8 +22,9 @@ img {
 max-width: 80px;
 max-height:80px;
     }
+
 .img-fluid {
-        max-width: 100%;
+        max-width: 50%;
         height: auto;
       }
 .text-center {
