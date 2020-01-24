@@ -36,8 +36,8 @@ overflow: hidden;
 
 .carousel-inner img {
     margin: auto;
-    min-width: 200%;
-    height: auto;
+    min-height: 100%;
+    width: auto;
 
   }
 
@@ -45,8 +45,7 @@ overflow: hidden;
     position: relative; 
     display: none;
     float: left;
-    min-width: 200%;
-    max-width: none; 
+    min-width: 100%; 
     margin-right: -100%;
     backface-visibility: hidden;
 }
