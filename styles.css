@@ -40,6 +40,11 @@ max-height:80px;
 .text-center {
     text-align: center!important;
 }
+
+.container img {
+    width: auto; 
+    height: 200px;
+}
 .testimonials {
     background-color: #fc3737;
 }
