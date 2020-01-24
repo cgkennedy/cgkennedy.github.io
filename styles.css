@@ -31,9 +31,9 @@ max-height:80px;
     min-height: 200px;
     width: auto;
 }
-.carousel-inner {
+.carousel-inner img{
     margin: auto;
-    min-height: 400%;
+    min-height: 800%;
     width: auto;
   }
 
