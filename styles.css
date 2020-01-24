@@ -23,13 +23,6 @@ max-width: 80px;
 max-height:80px;
     }
 
-
-.carousel-inner {
-position: relative;
-
-overflow: hidden;
-}
-
 .carousel-inner img {
     margin: auto;
     min-height: 200%;
