@@ -36,6 +36,9 @@ overflow: hidden;
 
 .carousel-inner img {
     margin: auto;
+    min-width: 200%;
+    height: auto;
+
   }
 
 .carousel-item {
