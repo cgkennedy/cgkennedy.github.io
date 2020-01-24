@@ -33,6 +33,11 @@ position: relative;
 width: 100%;
 overflow: hidden;
 }
+
+.carousel-inner img {
+    margin: auto;
+  }
+  
 .carousel-item {
     position: relative; 
     display: none;
