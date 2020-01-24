@@ -66,6 +66,10 @@ h3{
     margin-right: auto;
  }
 
+.container img {
+    min-width: 500px;
+    height: auto;
+}
 
 li{
     color:blue;
