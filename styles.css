@@ -25,20 +25,20 @@ max-height:80px;
 
 
 .carousel-inner {
-position: relative;
+position: center;
 
 overflow: hidden;
 }
 
 .carousel-inner img {
     margin: auto;
-    min-height: 100%;
+    min-height: 200%;
     width: auto;
 
   }
 
 .carousel-item {
-    position: relative; 
+    position: center; 
     display: none;
     float: left;
     min-width: 100%; 
