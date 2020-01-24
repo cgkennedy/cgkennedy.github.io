@@ -22,19 +22,12 @@ img {
 max-width: 80px;
 max-height:80px;
     }
-.carousel-inner img {
-        position: absolute;
-        top: 0;
-        left: 0;
-        height: 300px;
-        object-fit: contain !important;
-        display: block;
-    }
+
 .text-center {
     text-align: center!important;
 }
 .testimonials {
-    background-color: red;
+    background-image: "mustang.jpg";
 }
 h1{
     color:#000000;
