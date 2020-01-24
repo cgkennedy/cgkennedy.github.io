@@ -22,13 +22,9 @@ img {
 max-width: 80px;
 max-height:80px;
     }
- .carousel img {
-        position: absolute;
-        top: 0;
-        left: 0;
-        min-width: 100%;
-        min-height: 100%;
-      
+.img-fluid {
+        max-width: 100%;
+        height: auto;
       }
 .text-center {
     text-align: center!important;
