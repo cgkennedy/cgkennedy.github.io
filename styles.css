@@ -26,7 +26,10 @@ img {
 max-width: 80px;
 max-height:80px;
     }
-
+.container img {
+        width: auto; 
+        height: 200px;
+    }
 .carousel {
     min-height: 200px;
     width: auto;
@@ -40,11 +43,6 @@ max-height:80px;
 
 .text-center {
     text-align: center!important;
-}
-
-.container img {
-    width: auto; 
-    height: 200px;
 }
 
 .rounded float-left img{ 
