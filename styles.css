@@ -30,7 +30,7 @@ max-height:80px;
 
 .carousel-inner {
 position: relative;
-width: 100%;
+
 overflow: hidden;
 }
 
@@ -45,7 +45,7 @@ overflow: hidden;
     position: relative; 
     display: none;
     float: left;
-    min-width: 100%;
+    min-width: 200%;
     max-width: none; 
     margin-right: -100%;
     backface-visibility: hidden;
@@ -71,13 +71,13 @@ h3{
 
 h4{
     color: whitesmoke;
-    font-size: 50px;
+    font-size: 40px;
 
 }
 
 h6{ 
     color: darkred;
-    font-size: 40px;
+    font-size: 30px;
 
 }
 
