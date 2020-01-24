@@ -38,6 +38,11 @@ max-height:80px;
     width: auto; 
     height: 200px;
 }
+
+.container footer img{ 
+    width: auto; 
+    height: 200%;
+}
 .testimonials {
     background-color: #fc3737;
 }
