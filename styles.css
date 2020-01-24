@@ -23,7 +23,7 @@ max-width: 80px;
 max-height:80px;
     }
 
-.carousel-inner img {
+.carousel img {
     margin: auto;
     min-height: 400%;
     width: auto;
