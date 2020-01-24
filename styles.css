@@ -24,9 +24,23 @@ max-height:80px;
     }
 
 .img-fluid {
-        max-width: 50%;
+        max-width: 100%;
         height: auto;
       }
+
+.carousel-inner {
+position: relative;
+width: 100%;
+overflow: hidden;
+}
+.carousel-item {
+    position: relative; 
+    display: none;
+    float: left;
+    width: 100%;
+    margin-right: -100%;
+    backface-visibility: hidden;
+}
 .text-center {
     text-align: center!important;
 }
