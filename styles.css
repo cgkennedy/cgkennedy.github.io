@@ -85,3 +85,8 @@ h6{
     margin-right: auto;
  }
 
+ .footer-brand img {
+    height: 80px;
+    width: auto;
+}
+
