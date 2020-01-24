@@ -27,7 +27,7 @@ max-height:80px;
         top: 0;
         left: 0;
         height: auto
-        object-fit: containt !important;
+        object-fit: cover !important;
         display: block;
     }
 .text-center {
