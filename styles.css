@@ -23,7 +23,7 @@ max-width: 80px;
 max-height:80px;
     }
 
-.carousel img {
+.carousel-inner {
     margin: auto;
     min-height: 400%;
     width: auto;
@@ -39,7 +39,7 @@ max-height:80px;
     height: 200px;
 }
 
-.container footer img{ 
+.rounded float-left img{ 
     width: auto; 
     height: 200%;
 }
