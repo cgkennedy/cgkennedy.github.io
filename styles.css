@@ -24,12 +24,6 @@ max-height:80px;
     }
 
 
-    
-.container img {
-        width: 500%;
-        height: auto;
-    }
-
 .carousel-inner {
 position: relative;
 
