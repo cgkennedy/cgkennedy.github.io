@@ -78,8 +78,8 @@ h6{
 }
 
 p {
-    color: gray; 
-    
+    color: black; 
+
 }
 
 .center-block {
@@ -87,7 +87,18 @@ p {
     margin-left: auto;
     margin-right: auto;
  }
-
+.review_1.jpg {
+    height: 150px; 
+    width: auto;
+}
+.review_2.jpg {
+    height: 150px; 
+    width: auto;
+}
+.review_3.jpg {
+    height: 150px; 
+    width: auto;
+}
  .footer-brand img {
     height: 80px;
     width: auto;
