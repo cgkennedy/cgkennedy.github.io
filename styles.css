@@ -77,6 +77,11 @@ h6{
 
 }
 
+p {
+    color: gray; 
+    
+}
+
 .center-block {
     display: block;
     margin-left: auto;
